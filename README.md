@@ -2,6 +2,6 @@ A kidnapper wrote a ransom note but is worried it will be traced back to him. He
 
 * Your quest is to write a program that takes two lines from the user:
   * The first line contains space-separated strings denoting the words present in the magazine. 
-  * The second line contains  space-separated strings denoting the words present in the ransom note.
+  * The second line contains space-separated strings denoting the words present in the ransom note.
 * Given the words in the magazine and the words in the ransom note, print "Yes" if he can replicate his ransom note _exactly_ using whole words from the magazine; otherwise, print "No".
 
